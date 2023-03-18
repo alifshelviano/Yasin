@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YasinMbahKakung</string>
+    <string name="title_activity_doa">Doa</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="yes">Ya</string>
+    <string name="previous">Previous</string>
+    <string name="no">Tidak</string>
+    <string name="enter_a_nickname">Masukkan Nama Anda</string>
+    <string name="are_you_sure">Apa anda ingin mengakhiri aplikasi?</string>
+    <string name="default_text">-</string>
+    <string name="please_field_your_nickname">Silahkan masukkan nama Anda</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="affirmation1">Bintang</string>
+    <string name="affirmation2">Alif</string>
+    <string name="affirmation3">Yudis</string>
+    <string name="affirmation4">Dhika</string>
+    <string name="affirmation5">Zearmy</string>
+    <string name="affirmation6">Akmal</string>
+    <string name="affirmation7">Arka</string>
+    <string name="affirmation8">Sila</string>
+</resources>
