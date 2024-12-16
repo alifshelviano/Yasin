@@ -1,13 +1,13 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.florent37:expansionpanel:1.2.4@aar">
+  <library name="Gradle: com.github.florent37:expansionpanel:1.2.4@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/108056c3a0348ae2d756bc6445678f6c/transformed/jetified-expansionpanel-1.2.4/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/108056c3a0348ae2d756bc6445678f6c/transformed/jetified-expansionpanel-1.2.4/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/108056c3a0348ae2d756bc6445678f6c/transformed/jetified-expansionpanel-1.2.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/28949f794620380efad1ea386a239ecd/transformed/jetified-expansionpanel-1.2.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/28949f794620380efad1ea386a239ecd/transformed/jetified-expansionpanel-1.2.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/28949f794620380efad1ea386a239ecd/transformed/jetified-expansionpanel-1.2.4/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/expansionpanel/1.2.4/701f6e25583a40b1f7d48d54480273f88fe6a0b1/expansionpanel-1.2.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/expansionpanel/1.2.4/7d2722d37b0a49da7f7dc9e291b1f49512f1e89/expansionpanel-1.2.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.yasin">
+    xmlns:tools="http://schemas.android.com/tools">
 
     <application
         android:allowBackup="true"
@@ -13,28 +12,29 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Yasin"
         tools:targetApi="31">
+
         <activity
-            android:name=".ActivityDoa"
+            android:name="com.kemat.yasin.PrepareActivity"
             android:exported="false"
             android:theme="@style/Theme.Yasin"/>
         <activity
-            android:name=".PrepareActivity"
-            android:exported="false"
-            android:theme="@style/Theme.Yasin"/>
-        <activity
-            android:name=".MenuActivity"
+            android:name="com.kemat.yasin.MenuActivity"
             android:theme="@style/Theme.Yasin"
             android:exported="false" />
         <activity
-            android:name=".Tampil"
+            android:name="com.kemat.yasin.Tampil"
+            android:theme="@style/Theme.Yasin"
+            android:exported="false" />
+        <activity
+            android:name="com.kemat.yasin.ActivityDoa"
             android:theme="@style/Theme.Yasin"
             android:exported="false" />
 
-        <activity android:name=".MainActivity" />
+        <activity android:name="com.kemat.yasin.MainActivity" />
 
         <activity
 
-            android:name=".SplashScreen"
+            android:name="com.kemat.yasin.SplashScreen"
 
             android:exported="true">
             <intent-filter>

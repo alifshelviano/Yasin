@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/back2"
+    android:background="@drawable/back1"
     android:padding="40dp"
     tools:context="com.example.yasin.MainActivity">
 
@@ -13,7 +13,8 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="176dp"
+        android:layout_marginTop="208dp"
+
         android:fontFamily="sans-serif-medium"
         android:lineSpacingExtra="4dp"
         android:text="Yasin"
@@ -22,6 +23,7 @@
         android:textSize="50sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -42,15 +44,17 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="         Kemat    \n            bin \n Mangun Pawiro"
+
+        android:text="Kemat bin Mangun Pawiro"
         android:textColor="@color/black"
         android:textSize="25sp"
+        android:fontFamily="sans-serif-condensed-medium"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/btn1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.358" />
+        app:layout_constraintVertical_bias="0.7" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -61,5 +65,5 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:srcCompat="@drawable/kakungicon" />
+        app:srcCompat="@drawable/kakung" />
 </androidx.constraintlayout.widget.ConstraintLayout>
